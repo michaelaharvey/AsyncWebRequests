@@ -1,0 +1,6 @@
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\bin\Debug\AsyncWebRequests.exe.config
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\bin\Debug\AsyncWebRequests.exe
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\bin\Debug\AsyncWebRequests.pdb
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\obj\Debug\AsyncWebRequests.csprojResolveAssemblyReference.cache
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\obj\Debug\AsyncWebRequests.exe
+c:\users\michael harvey\documents\visual studio 2015\Projects\AsyncWebRequests\AsyncWebRequests\obj\Debug\AsyncWebRequests.pdb
